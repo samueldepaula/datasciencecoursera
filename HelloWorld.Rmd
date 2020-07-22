@@ -1,0 +1,10 @@
+---
+title: "HelloWorld"
+author: "SamueldePaula"
+date: "7/21/2020"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+## This is a mardown file
